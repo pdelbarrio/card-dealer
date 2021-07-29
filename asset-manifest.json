@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/card-dealer/static/css/main.19ff4f27.chunk.css",
+    "main.js": "/card-dealer/static/js/main.c0b89a1e.chunk.js",
+    "main.js.map": "/card-dealer/static/js/main.c0b89a1e.chunk.js.map",
+    "runtime-main.js": "/card-dealer/static/js/runtime-main.a5d07d08.js",
+    "runtime-main.js.map": "/card-dealer/static/js/runtime-main.a5d07d08.js.map",
+    "static/js/2.3071fa0e.chunk.js": "/card-dealer/static/js/2.3071fa0e.chunk.js",
+    "static/js/2.3071fa0e.chunk.js.map": "/card-dealer/static/js/2.3071fa0e.chunk.js.map",
+    "static/js/3.1c5542a6.chunk.js": "/card-dealer/static/js/3.1c5542a6.chunk.js",
+    "static/js/3.1c5542a6.chunk.js.map": "/card-dealer/static/js/3.1c5542a6.chunk.js.map",
+    "index.html": "/card-dealer/index.html",
+    "static/css/main.19ff4f27.chunk.css.map": "/card-dealer/static/css/main.19ff4f27.chunk.css.map",
+    "static/js/2.3071fa0e.chunk.js.LICENSE.txt": "/card-dealer/static/js/2.3071fa0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5d07d08.js",
+    "static/js/2.3071fa0e.chunk.js",
+    "static/css/main.19ff4f27.chunk.css",
+    "static/js/main.c0b89a1e.chunk.js"
+  ]
+}
